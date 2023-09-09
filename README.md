@@ -173,7 +173,7 @@ Abaixo vou deixar sites de referência para auxiliar se tiver alguma dúvida .
 
 :arrow_right: [Git](https://learn.microsoft.com/pt-br/devops/develop/git/what-is-git) 
 
-:arrow_right: [Branch](https://git-scm.com/book/pt-br/v2/Branches-no-Git-Branches-em-poucas-palavras) 
+:arrow_right: [Branchs](https://git-scm.com/book/pt-br/v2/Branches-no-Git-Branches-em-poucas-palavras) 
 
 :arrow_right: [Github](https://www.hostinger.com.br/tutoriais/o-que-github#:~:text=Em%20suma%2C%20o%20GitHub%20%C3%A9,registro%20detalhado%20do%20seu%20progresso)
 
