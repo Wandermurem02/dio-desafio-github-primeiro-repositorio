@@ -1,4 +1,4 @@
-# :bookmark: Desafio projeto Git/Gihub da DIO
+# :bookmark: Desafio projeto Git/Github da DIO
 
 ## Repositório 
 
